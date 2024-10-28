@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <link href="./style.css" rel="stylesheet" />
+    <title>Electron App</title>
+  </head>
+  <body>
+    <h1>Testando projecto 😂!</h1>
+    <div class="container">
+      <button id="button">Mostrar nome:</button>
+      <strong id="text"></strong>
+      <span class="copyright">Powered by Delfim Celestino</span>
+    </div>
+  </body>
+  <script src="./renderer.js"></script>
+</html>
