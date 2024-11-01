@@ -17,7 +17,6 @@ Siga esses passos com sabedoria (e café, de preferência):
 
 1.  Clone o repositório (ou faça um **fork** se estiver se sentindo aventureiro).
     
-    bash
     
     Copiar código
     ```bash
@@ -36,8 +35,6 @@ Siga esses passos com sabedoria (e café, de preferência):
     ````
     
 4.  Hora do show!:
-    
-    bash
     
     Copiar código
     
