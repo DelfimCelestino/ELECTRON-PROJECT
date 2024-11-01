@@ -21,8 +21,8 @@ Siga esses passos com sabedoria (e café, de preferência):
     
     Copiar código
     
-    `git clone <repo-url>
-    cd my-first-electron-app` 
+    `git clone (https://github.com/DelfimCelestino/ELECTRON-PROJECT.git)
+    cd ELECTRON-PROJECT` 
     
 2.  Instale as dependências (ou invoque a magia negra):
     
