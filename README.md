@@ -25,12 +25,11 @@ Siga esses passos com sabedoria (e café, de preferência):
     cd ELECTRON-PROJECT` 
     
 2.  Instale as dependências (ou invoque a magia negra):
-    
-    bash
-    
-    Copiar código
-    
-    `npm install` 
+
+      Copiar código
+    ````bash
+    `npm install`
+    ````
     
 3.  Hora do show!:
     
