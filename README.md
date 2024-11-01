@@ -20,24 +20,30 @@ Siga esses passos com sabedoria (e café, de preferência):
     bash
     
     Copiar código
+    ```bash
+    git clone https://github.com/DelfimCelestino/ELECTRON-PROJECT.git
+    ```
     
-    `git clone (https://github.com/DelfimCelestino/ELECTRON-PROJECT.git)
+```bash
     cd ELECTRON-PROJECT` 
-    
-2.  Instale as dependências (ou invoque a magia negra):
+```
+3.  Instale as dependências (ou invoque a magia negra):
 
       Copiar código
+    
     ````bash
-    `npm install`
+    npm install
     ````
     
-3.  Hora do show!:
+4.  Hora do show!:
     
     bash
     
     Copiar código
     
-    `npm start` 
+    ```bash
+    npm start
+    ```
     
 
 E pronto! Ele deve abrir uma janelinha **que nem um app real!**
